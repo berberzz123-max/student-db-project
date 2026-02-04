@@ -9,7 +9,7 @@ This repository contains my web and UI design projects demonstrating skills in f
 A student activity and grade tracking web application built with HTML, CSS, and JavaScript.
 
 **🔗 Live Web Demo:**  
-https://berberzz123-max.github.io/student-db-project/
+(https://github.com/berberzz123-max/student-db-project/tree/main)
 
 **📁 Source Code:**  
 This repo contains the full source of the project.
